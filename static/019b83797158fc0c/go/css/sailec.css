@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 100;
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Thin.eot');
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Thin.woff') format('woff'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 200;
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Light.eot');
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Light.woff2') format('woff2'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Light.woff') format('woff'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 400;
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Regular.eot');
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Regular.woff2') format('woff2'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Regular.woff') format('woff'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 500;
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/onts/Sailec-Medium.eot');
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/ailec-Medium.woff2') format('woff2'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.woff') format('woff'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.ttf') format('truetype');
+}
+/* font weight 500 and font weight 700 (bold) are the same for better integration support */
+@font-face {
+    font-family: 'Sailec';
+    font-weight: 700;
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.eot');
+    src: url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.woff2') format('woff2'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.woff') format('woff'),url('https://josephcrosmanplays532.github.io/Old-Vyond-Files/fonts/Sailec-Medium.ttf') format('truetype');
+}

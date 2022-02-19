@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="ccpack" name="SeverePack">
+<char id="ducktaleswebby" name="Webby" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="6700" money="0" sharing="0">
+<action id="stand.swf" name="Standing" loop="Y" totalframe="1" enable="Y" aid="6701"/>
+<action id="pissed.swf" name="Pissed" loop="Y" totalframe="1" enable="Y" aid="6702"/>
+<action id="pissedv2.swf" name="Pissed v2" loop="Y" totalframe="1" enable="Y" aid="6703"/>
+<action id="shocked.swf" name="Shocked" loop="Y" totalframe="1" enable="Y" aid="6704"/>
+<motion id="walk.swf" name="Walk" loop="Y" totalframe="1" enable="Y" aid="6705"/>
+<facial id="head_stand.swf" name="Neutral" enable="Y" aid="6706"/>
+<facial id="head_talk.swf" name="Talk" enable="Y" aid="6707"/>
+<tags>family,_free,_cat:Custom</tags>
+</char>
+<prop id="dining_room.png" name="Real Life Dinning Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6650" money="0" sharing="0"/>
+<prop id="basement_steps.png" name="Basement Steps" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6651" money="0" sharing="0"/>
+<prop id="cryin.swf" name="Crying" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6652" money="0" sharing="0"/>
+<prop id="scream.swf" name="Screaming" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6653" money="0" sharing="0"/>
+<prop id="bruh.swf" name="Bruh" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6654" money="0" sharing="0"/>
+<background id="bg01.swf" name="MAIN" enable="Y" default="Y" is_premium="N" aid="6656" money="0" sharing="0"/>
+</theme>
