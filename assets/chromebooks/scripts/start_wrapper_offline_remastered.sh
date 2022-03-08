@@ -1,2 +1,2 @@
-cd WrapperOfflineRemasteredV2/wrapper
+cd WrapperOfflineRemasteredV2-chromebook/wrapper
 npm start
