@@ -1,10 +1,3 @@
-<script>
-// some of this code was taken from regularspark. but it works here lol :)
-const params = new Proxy(new URLSearchParams(window.location.search), {
-    get: (searchParams, prop) => searchParams.get(prop),
-});
-let id = params.movieId;
-</script>  
 <div class="modal-dialog" id="export_overlay">
     <div class="modal-content">
         <div class="modal-header">
