@@ -1,4 +1,4 @@
 # Start Redrawn
-flashpeak-slimjet http://localhost:4343/
 cd Redrawn-chromebook/wrapper
+flashpeak-slimjet http://localhost:4343/
 npm start
