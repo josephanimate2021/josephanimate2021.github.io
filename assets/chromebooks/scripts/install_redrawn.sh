@@ -8,5 +8,5 @@ unlink chromebook.zip
 cd Redrawn-chromebook/wrapper
 npm install
 # Start Redrawn
-flashpeek-slimjet http://localhost:4343/
+flashpeak-slimjet http://localhost:4343/
 npm start
