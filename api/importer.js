@@ -28,7 +28,7 @@ function importComplete(obj) {
       }
       case 'mp4': {
         var c;
-        while (c != 'video') {
+        while (c != 'vid') {
           c = alert('Your video is sucessfully uploaded.').toLowerCase()
         }
         params += c
