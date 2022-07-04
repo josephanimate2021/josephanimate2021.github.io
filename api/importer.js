@@ -4,6 +4,7 @@ function showImporter() {
 };
 function importComplete(obj) {
   const file = obj.files[0];
+  const studio = obj;
   if (file != undefined) {
     const ext = file.name.substring(file.name.lastIndexOf('.')+1);
     var params = flashvars.presaveId+'.';
@@ -15,6 +16,7 @@ function importComplete(obj) {
           c = prompt('Would you like to upload this as a voiceover ("vo"), sound effect ("se"), or as music ("mu")?').toLowerCase()
         } 
         params += c
+        studio[0].importerStatus("processing");
         break;
       }
       case 'jpg':
@@ -24,6 +26,7 @@ function importComplete(obj) {
           c = prompt('Would you like to upload this as a background ("bg") or as a prop ("prop")?').toLowerCase()
         }
         params += c
+        studio[0].importerStatus("processing");
         break;
       }
       case 'mp4': {
@@ -32,11 +35,13 @@ function importComplete(obj) {
           c = alert('Your video is sucessfully uploaded.').toLowerCase()
         }
         params += c
+        studio[0].importerStatus("processing");
         break;
       }
     }
     obj.parentElement.firstChild.value = params+'.'+ext;
     sub.click();
+    studio[0].importerStatus("done");
     return true
   }
 }
