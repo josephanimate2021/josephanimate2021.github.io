@@ -8,3 +8,5 @@
 ###### The Anistick LightSpeed network is available at https://lightspeed.anistick.com .
 ### JosephAnimate2021
 ###### Joseph's LightSpeed network is available at https://josephanimate2021.github.io .
+
+## Copyright 2022 Anistick Lightspeed Development Team
