@@ -9,4 +9,4 @@
 ### JosephAnimate2021
 ###### Joseph's LightSpeed network is available at https://josephanimate2021.github.io .
 
-## Copyright 2022 Anistick Lightspeed Development Team
+## Copyright 2022-2024 Anistick Lightspeed Development Team
